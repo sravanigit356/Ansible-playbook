@@ -61,4 +61,8 @@
       ansible.builtin.shell: "FLASK_APP=/opt/app.py nohup flask run --host=0.0.0.0 &"
 
     - name: Install pycharm
-      apt:
+      apt: jjnrnijnrejve
+        kjvnkjnvknekjnv
+        ekjbvejbkjvndf
+        nvkjenvkjnf
+        kjnvkjfn
